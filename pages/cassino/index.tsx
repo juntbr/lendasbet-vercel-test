@@ -3,7 +3,8 @@ import { GetStaticProps } from 'next'
 import nextI18nextConfig from 'next-i18next.config.cjs'
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 
-function Cassino() {
+function Cassino({ games }) {
+  console.log({ games })
   return <NotAuthenticatedCasino isLive={false} />
 }
 
@@ -25,6 +26,7 @@ export const getStaticProps: GetStaticProps = async ({ locale }) => {
         ['common', 'sidebar'],
         nextI18nextConfig,
       )),
+      games: response,
     },
   }
 }
