@@ -1,0 +1,113 @@
+{
+  "href": "https://lendasbet.nwacdn.com/v1/casino/games/30564?expand=&filter=name%3Dlightning%20roulette&language=pt&selectedCountryCode=BR",
+  "id": "30564",
+  "name": "First Person Lightning Roleta",
+  "launchUrl": "https://gamelaunch.everymatrix.com/Loader/Start/2703/evo-rng-lightningroulette",
+  "backgroundImageUrl": "//static.everymatrix.com/cms2/base/_casino/3/304177196BE06813E87C18081EE799CF.jpg",
+  "popularity": 0,
+  "isNew": false,
+  "width": 1280,
+  "height": 720,
+  "hasFunMode": false,
+  "hasAnonymousFunMode": false,
+  "thumbnail": "//static.everymatrix.com/cms2/base/_casino/2/2177D404E0A996E0B2E1E287E2F04830.optimized.png",
+  "subVendor": "Evolution",
+  "subVendorId": 18,
+  "defaultThumbnail": "//static.everymatrix.com/cms2/base/_casino/2/2177D404E0A996E0B2E1E287E2F04830.optimized.png",
+  "type": "casino-games",
+  "advancedTags": [],
+  "logo": "//static.everymatrix.com/cms2/base/_casino/E/EF27CD69515082D6E20CD62E35FC2B8C.optimized.png",
+  "slug": "evo-rng-lightningroulette",
+  "theoreticalPayOut": 0.973,
+  "platform": [
+    "PC",
+    "iPad",
+    "iPhone",
+    "Android"
+  ],
+  "maxBetRestriction": {
+    "defaultMaxBet": {},
+    "defaultMaxWin": {}
+  },
+  "groups": {
+    "count": 1,
+    "items": [
+      "LIVECASINO$primeira-pessoa"
+    ]
+  },
+  "groupInfos": {
+    "count": 1,
+    "items": {
+      "LIVECASINO$primeira-pessoa": {
+        "position": "default~primeira-pessoa~0006.0001",
+        "thumbnail": "//static.everymatrix.com/cms2/base/_casino/2/2177D404E0A996E0B2E1E287E2F04830.optimized.png"
+      }
+    }
+  },
+  "vendor": {
+    "href": "https://lendasbet.nwacdn.com/v1/casino/vendors/128?selectedCountryCode=BR"
+  },
+  "tags": {
+    "count": 2,
+    "total": 2,
+    "items": [
+      {
+        "href": "https://lendasbet.nwacdn.com/v1/casino/tags/ResultsChanged_3?selectedCountryCode=BR"
+      },
+      {
+        "href": "https://lendasbet.nwacdn.com/v1/casino/tags/SeatsChanged_9?selectedCountryCode=BR"
+      }
+    ],
+    "pagination": {
+      "first": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=lightning%20roulette&pagination=tags(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt",
+      "next": null,
+      "previous": null,
+      "last": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=lightning%20roulette&pagination=tags(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt"
+    }
+  },
+  "categories": {
+    "count": 1,
+    "total": 1,
+    "items": [
+      {
+        "href": "https://lendasbet.nwacdn.com/v1/casino/categories/TABLEGAMES?language=pt&selectedCountryCode=BR"
+      }
+    ],
+    "pagination": {
+      "first": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=lightning%20roulette&pagination=categories(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt",
+      "next": null,
+      "previous": null,
+      "last": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=lightning%20roulette&pagination=categories(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt"
+    }
+  },
+  "jackpots": {
+    "count": 0,
+    "total": 0,
+    "items": [],
+    "pagination": {
+      "first": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=lightning%20roulette&pagination=jackpots(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt",
+      "next": null,
+      "previous": null,
+      "last": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=lightning%20roulette&pagination=jackpots(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt"
+    }
+  },
+  "promo": {
+    "effective": false
+  },
+  "exclusive": {
+    "effective": false
+  },
+  "gId": 30564,
+  "gameId": 30564,
+  "thumbnails": {},
+  "fpp": 0.01,
+  "bonusContribution": 0.01,
+  "icons": {
+    "22": "//static.everymatrix.com/cms2/base/_casino/0/08C9F74624A04049B0178421E3C203C2.optimized.png",
+    "44": "//static.everymatrix.com/cms2/base/_casino/0/08C9F74624A04049B0178421E3C203C2.optimized.png",
+    "57": "//static.everymatrix.com/cms2/base/_casino/0/08C9F74624A04049B0178421E3C203C2.optimized.png",
+    "72": "//static.everymatrix.com/cms2/base/_casino/0/08C9F74624A04049B0178421E3C203C2.optimized.png",
+    "88": "//static.everymatrix.com/cms2/base/_casino/0/08C9F74624A04049B0178421E3C203C2.optimized.png",
+    "114": "//static.everymatrix.com/cms2/base/_casino/0/08C9F74624A04049B0178421E3C203C2.optimized.png"
+  }
+}

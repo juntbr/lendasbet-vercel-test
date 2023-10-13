@@ -1,0 +1,177 @@
+#fasttrack-crm .cta-button {
+  background-color: red;
+  color: black;
+}
+#fasttrack-crm .inbox {
+  background-color: #262626 !important;
+}
+
+#fasttrack-crm .message {
+  background-color: #262626 !important;
+}
+
+#fasttrack-crm .delete-button {
+  fill: #c5c5c5 !important;
+}
+
+#fasttrack-crm .delete-button:hover {
+  fill: white !important;
+}
+
+#fasttrack-crm h4.title,
+#fasttrack-crm p.text {
+  color: #e0e0e0 !important;
+  padding-right: 20px !important;
+}
+
+#fasttrack-crm p.date {
+  color: #e0e0e0 !important;
+  font-size: 12px !important;
+}
+
+#fasttrack-crm .inbox-navigation-bar {
+  background-color: #1f1f1f;
+}
+
+#fasttrack-crm .inbox-navigation-bar .title {
+  color: #17a246 !important;
+}
+
+#fasttrack-crm .unread-badge {
+  background-color: #17a246 !important;
+}
+
+#fasttrack-crm .back-button {
+  color: #e0e0e0 !important;
+}
+
+#fasttrack-crm .back-button:after,
+#fasttrack-crm .back-button:before {
+  background-color: #e0e0e0 !important;
+}
+
+#fasttrack-crm .inbox-navigation-bar .contact-details {
+  color: #e0e0e0 !important;
+  font-size: 12px !important;
+  width: 200px !important;
+  display: none;
+}
+
+.ft-notification-type-inbox .bottom-info {
+  text-indent: -9999px;
+  font-size: 0 !important;
+}
+
+.ft-notification-type-inbox .bottom-info * {
+  display: none;
+  text-indent: -9999px;
+  font-size: 12px;
+}
+
+.ft-notification-type-inbox .bottom-info span {
+  display: block !important;
+  text-indent: initial !important;
+}
+
+​ #fasttrack-crm .cta-button.secondary {
+  background-color: #17a246 !important;
+  color: #e0e0e0 !important;
+}
+
+/* Inbox Notification: */
+#fasttrack-crm .notification-small.ft-notification-type-inbox {
+  background-color: #262626 !important;
+}
+
+/* On Site Notification: */
+#fasttrack-crm .notification-small.ft-notification-type-message {
+  background-color: #262626 !important;
+  border-radius: 8px !important;
+  padding: 1rem 0.5rem !important;
+  font-family: sans-serif !important;
+  border: 2px solid #0d5c28;
+}
+
+/* Shoutout notification: */
+#fasttrack-crm .selected-message.ft-notification-type-shoutout {
+  background-color: #1f1f1f;
+}
+
+/* Inbox List item read / unread */
+#fasttrack-crm li.message.is_read {
+  opacity: 0.5;
+}
+
+#fasttrack-crm li.message.is_unread:hover {
+  background-color: #1f1f1f !important;
+  transition: ease-in-out 300ms;
+}
+
+/* Opened up inbox message: */
+#fasttrack-crm .selected-message.ft-notification-type-inbox {
+  background-color: #262626;
+}
+
+#fasttrack-crm .no-messages svg {
+  fill: #e0e0e0 !important;
+}
+
+#fasttrack-crm .no-messages span {
+  color: #e0e0e0 !important;
+}
+
+#fasttrack-crm .selected-message .title {
+  color: #e0e0e0 !important;
+  text-align: center !important;
+}
+
+#fasttrack-crm .selected-message .scroll-area {
+  overflow-y: auto !important;
+}
+
+#fasttrack-crm .selected-message .message-body {
+  color: #e0e0e0 !important;
+}
+
+#fasttrack-crm .selected-message .bottom-info {
+  color: #e0e0e0 !important;
+  font-size: 12px;
+  border-top: 1px solid #595959 !important;
+}
+
+#fasttrack-crm .selected-message .footer-text {
+  color: #e0e0e0 !important;
+  font-size: 12px !important;
+}
+
+#fasttrack-crm .selected-message .buttons-row {
+  margin: 0px !important;
+}
+
+#fasttrack-crm .notification-small .title {
+  color: #e0e0e0 !important;
+}
+
+#fasttrack-crm .notification-small .preview {
+  color: #e0e0e0 !important;
+  padding: 0 !important;
+}
+
+#fasttrack-crm .small-notifications-wrapper {
+  max-width: 500px !important;
+  top: 0px !important;
+}
+
+#fasttrack-crm .notification-small .image-wrapper img {
+  width: 150px !important;
+  border-radius: 8px !important;
+  margin-right: 0px !important;
+}
+
+#fasttrack-crm .notification-small .show-message-button {
+  @apply !px-2 !py-2 !text-sm !font-bold !text-neutral-10 !transition-all !duration-300 !ease-in-out !border !rounded-full xs:!text-base lg:!py-2 lg:!px-4 !bg-primary hover:!bg-primary/70 !border-transparent !capitalize hover:!border-primary lg:!text-lg;
+}
+
+#fasttrack-crm .notification-small .show-message-button.secondary {
+  @apply !bg-primary hover:!bg-primary/70;
+}

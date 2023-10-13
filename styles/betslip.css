@@ -1,0 +1,39 @@
+.BetslipWrapper {
+  position: fixed;
+  right: calc(0.3rem + env(safe-area-inset-right));
+  bottom: calc(5rem + env(safe-area-inset-bottom));
+  margin-right: 0.5rem;
+  background: #1ec355;
+  box-shadow: 0 0 0.3rem 0 #17a246;
+  border: 0.1rem solid #17a246;
+  border-radius: 50%;
+  z-index: 20;
+}
+.BetslipWrapper .BetslipContent {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 0.65rem 0.75rem;
+}
+
+.BetslipWrapper .BetslipIndicator {
+  top: -0.4rem;
+  right: -0.2rem;
+}
+.CounterBadge {
+  position: absolute;
+  height: 1.25rem;
+  width: 1.25rem;
+  line-height: 1.25rem;
+  border-radius: 50%;
+  background: #f91c24;
+  color: #fff;
+  font-size: 0.55rem;
+  font-weight: 700;
+  text-align: center;
+}
+.BetslipWrapper .BetslipContent svg {
+  width: 1.15rem;
+  fill: #fff;
+}

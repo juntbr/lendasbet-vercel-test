@@ -1,0 +1,101 @@
+{
+  "href": "https://lendasbet.nwacdn.com/v1/casino/games/35744071237?expand=&filter=name%3Dcrazy%20time&language=pt&selectedCountryCode=BR",
+  "id": "35744071237",
+  "name": "Crazy Time",
+  "launchUrl": "https://gamelaunch.everymatrix.com/Loader/Start/2703/crazy-time-evo/?tableID=35744071237",
+  "backgroundImageUrl": "//static.everymatrix.com/cms2/base/_casino/B/B3E7E8CF7B5E27C195ED6B35E1304A01.jpg",
+  "popularity": 0,
+  "isNew": false,
+  "width": 1920,
+  "height": 1080,
+  "hasFunMode": false,
+  "hasAnonymousFunMode": false,
+  "thumbnail": "//static.everymatrix.com/cms2/base/_casino/C/C84EC6B7139850C616CE66A7362E223B.jpg",
+  "subVendor": "Evolution",
+  "defaultThumbnail": "//static.everymatrix.com/cms2/base/_casino/C/C84EC6B7139850C616CE66A7362E223B.jpg",
+  "type": "live-casino-tables",
+  "liveCasinoCategory": "OTHER",
+  "advancedTags": [],
+  "logo": "//static.everymatrix.com/cms2/base/_casino/3/33F18996225B1E8D1A06F974E9DB2794.png",
+  "slug": "crazy-time-evo",
+  "theoreticalPayOut": 0,
+  "isVIPTable": false,
+  "platform": [
+    "PC",
+    "iPad",
+    "iPhone",
+    "Android"
+  ],
+  "maxBetRestriction": {},
+  "groups": {
+    "count": 2,
+    "items": [
+      "LIVECASINO$populares",
+      "LIVECASINO$todos"
+    ]
+  },
+  "groupInfos": {
+    "count": 2,
+    "items": {
+      "LIVECASINO$populares": {
+        "position": "default~populares~0001.0001",
+        "thumbnail": "//static.everymatrix.com/cms2/base/_casino/C/C84EC6B7139850C616CE66A7362E223B.jpg"
+      },
+      "LIVECASINO$todos": {
+        "position": "default~todos~0007.0210",
+        "thumbnail": "//static.everymatrix.com/cms2/base/_casino/C/C84EC6B7139850C616CE66A7362E223B.jpg"
+      }
+    }
+  },
+  "vendor": {
+    "href": "https://lendasbet.nwacdn.com/v1/casino/vendors/128?selectedCountryCode=BR"
+  },
+  "tags": {
+    "count": 1,
+    "total": 1,
+    "items": [
+      {
+        "href": "https://lendasbet.nwacdn.com/v1/casino/tags/uniclub?selectedCountryCode=BR"
+      }
+    ],
+    "pagination": {
+      "first": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=crazy%20time&pagination=tags(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt",
+      "next": null,
+      "previous": null,
+      "last": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=crazy%20time&pagination=tags(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt"
+    }
+  },
+  "categories": {
+    "count": 1,
+    "total": 1,
+    "items": [
+      {
+        "href": "https://lendasbet.nwacdn.com/v1/casino/categories/LIVEDEALER?language=pt&selectedCountryCode=BR"
+      }
+    ],
+    "pagination": {
+      "first": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=crazy%20time&pagination=categories(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt",
+      "next": null,
+      "previous": null,
+      "last": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=crazy%20time&pagination=categories(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt"
+    }
+  },
+  "promo": {
+    "effective": false
+  },
+  "exclusive": {
+    "effective": false
+  },
+  "gameId": 35744,
+  "thumbnails": {},
+  "fpp": 0.01,
+  "bonusContribution": 0.01,
+  "icons": {
+    "22": "//static.everymatrix.com/cms2/base/_casino/9/95FBF65C08C9ECCFCDFE71C2F0208523.png",
+    "44": "//static.everymatrix.com/cms2/base/_casino/9/95FBF65C08C9ECCFCDFE71C2F0208523.png",
+    "57": "//static.everymatrix.com/cms2/base/_casino/9/95FBF65C08C9ECCFCDFE71C2F0208523.png",
+    "72": "//static.everymatrix.com/cms2/base/_casino/9/95FBF65C08C9ECCFCDFE71C2F0208523.png",
+    "88": "//static.everymatrix.com/cms2/base/_casino/9/95FBF65C08C9ECCFCDFE71C2F0208523.png",
+    "114": "//static.everymatrix.com/cms2/base/_casino/9/95FBF65C08C9ECCFCDFE71C2F0208523.png"
+  }
+}

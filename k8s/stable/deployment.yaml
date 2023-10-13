@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  namespace: lendasbet-stg
+  labels:
+    app: lendasbet-frontend-stable
+  name: lendasbet-frontend-stable
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: lendasbet-frontend-stable
+  strategy: {}
+  template:
+    metadata:
+      labels:
+        app: lendasbet-frontend-stable
+    spec:
+      containers:
+        - image: 229131829469.dkr.ecr.us-east-1.amazonaws.com/lendasbet-frontend-stable:latest
+          name: lendasbet-frontend-stable
+          ports:
+            - containerPort: 3000
+          resources:
+            limits: 
+              cpu: 0.5
+              memory: 1G
+            requests:
+              cpu: 0.5
+              memory: 1G
+      restartPolicy: Always

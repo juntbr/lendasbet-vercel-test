@@ -1,0 +1,2 @@
+export const DATA_SOURCE = "TESTELOBBY";
+export const LIVE_DATA_SOURCE = "LIVECASINO";

@@ -1,0 +1,52 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  namespace: lendasbet-prod
+  labels:
+    app: lendasbet-frontend
+  name: lendasbet-frontend
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: lendasbet-frontend
+  strategy: {}
+  template:
+    metadata:
+      labels:
+        app: lendasbet-frontend
+    spec:
+      affinity:
+        podAntiAffinity:
+          preferredDuringSchedulingIgnoredDuringExecution:
+          - podAffinityTerm:
+              labelSelector:
+                matchExpressions:
+                - key: app
+                  operator: In
+                  values:
+                  - lendasbet-frontend
+              topologyKey: topology.kubernetes.io/zone
+            weight: 100
+          - podAffinityTerm:
+              labelSelector:
+                matchExpressions:
+                - key: app
+                  operator: In
+                  values:
+                  - lendasbet-frontend
+              topologyKey: kubernetes.io/hostname 
+            weight: 99
+      containers:
+        - image: 229131829469.dkr.ecr.us-east-1.amazonaws.com/lendasbet-frontend-prod:latest
+          name: lendasbet-frontend
+          ports:
+            - containerPort: 3000
+          resources:
+            limits: 
+              cpu: 1
+              memory: 2G
+            requests:
+              cpu: 1
+              memory: 2G
+      restartPolicy: Always

@@ -1,0 +1,114 @@
+{
+	"href": "https://lendasbet.nwacdn.com/v1/casino/games/32430?expand=&filter=name%3Daviator&language=pt&selectedCountryCode=BR",
+	"id": "32430",
+	"name": "Aviator",
+	"launchUrl": "https://gamelaunch.everymatrix.com/Loader/Start/2703/aviator-spribe",
+	"backgroundImageUrl": "//static.everymatrix.com/cms2/uniclubcas/_casino/D/D00141947D423E725415A8520F44E32B.jpg",
+	"popularity": 0,
+	"isNew": false,
+	"width": 940,
+	"height": 560,
+	"hasFunMode": true,
+	"hasAnonymousFunMode": true,
+	"thumbnail": "//static.everymatrix.com/cms2/base/_casino/F/F39B48BF32140961D7FE02CE44A61836.png",
+	"subVendor": "Spribe",
+	"subVendorId": 231,
+	"defaultThumbnail": "//static.everymatrix.com/cms2/base/_casino/F/F39B48BF32140961D7FE02CE44A61836.png",
+	"type": "casino-games",
+	"advancedTags": [],
+	"logo": "//static.everymatrix.com/cms2/uniclubcas/_casino/E/E7358DEECEF603C089C01C236F49F8CA.optimized.png",
+	"slug": "aviator-spribe",
+	"theoreticalPayOut": 0.97,
+	"platform": [
+		"PC",
+		"iPad",
+		"iPhone",
+		"Android"
+	],
+	"maxBetRestriction": {
+		"defaultMaxBet": {},
+		"defaultMaxWin": {}
+	},
+	"groups": {
+		"count": 1,
+		"items": [
+			"TESTELOBBY$crash-games"
+		]
+	},
+	"groupInfos": {
+		"count": 1,
+		"items": {
+			"TESTELOBBY$crash-games": {
+				"position": "default~crash-games~0001.0001",
+				"thumbnail": "//static.everymatrix.com/cms2/base/_casino/F/F39B48BF32140961D7FE02CE44A61836.png"
+			}
+		}
+	},
+	"vendor": {
+		"href": "https://lendasbet.nwacdn.com/v1/casino/vendors/255?selectedCountryCode=BR"
+	},
+	"tags": {
+		"count": 2,
+		"total": 2,
+		"items": [
+			{
+				"href": "https://lendasbet.nwacdn.com/v1/casino/tags/Action?selectedCountryCode=BR"
+			},
+			{
+				"href": "https://lendasbet.nwacdn.com/v1/casino/tags/Bonus%20Round?selectedCountryCode=BR"
+			}
+		],
+		"pagination": {
+			"first": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=aviator&pagination=tags(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt",
+			"next": null,
+			"previous": null,
+			"last": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=aviator&pagination=tags(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt"
+		}
+	},
+	"categories": {
+		"count": 1,
+		"total": 1,
+		"items": [
+			{
+				"href": "https://lendasbet.nwacdn.com/v1/casino/categories/CRASHGAMES?language=pt&selectedCountryCode=BR"
+			}
+		],
+		"pagination": {
+			"first": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=aviator&pagination=categories(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt",
+			"next": null,
+			"previous": null,
+			"last": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=aviator&pagination=categories(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt"
+		}
+	},
+	"jackpots": {
+		"count": 0,
+		"total": 0,
+		"items": [],
+		"pagination": {
+			"first": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=aviator&pagination=jackpots(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt",
+			"next": null,
+			"previous": null,
+			"last": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=aviator&pagination=jackpots(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt"
+		}
+	},
+	"htmlDescription": "{inherited:false,overridden:false,value:}",
+	"promo": {
+		"effective": false
+	},
+	"exclusive": {
+		"effective": false
+	},
+	"gId": 32430,
+	"gameId": 32430,
+	"thumbnails": {},
+	"fpp": 0.2,
+	"bonusContribution": 1,
+	"icons": {
+		"22": "//static.everymatrix.com/cms2/uniclubcas/_casino/D/DD356E51665153858C29ECA4831CCE1F.optimized.png",
+		"44": "//static.everymatrix.com/cms2/uniclubcas/_casino/D/DD356E51665153858C29ECA4831CCE1F.optimized.png",
+		"57": "//static.everymatrix.com/cms2/uniclubcas/_casino/D/DD356E51665153858C29ECA4831CCE1F.optimized.png",
+		"72": "//static.everymatrix.com/cms2/uniclubcas/_casino/D/DD356E51665153858C29ECA4831CCE1F.optimized.png",
+		"88": "//static.everymatrix.com/cms2/uniclubcas/_casino/D/DD356E51665153858C29ECA4831CCE1F.optimized.png",
+		"114": "//static.everymatrix.com/cms2/uniclubcas/_casino/D/DD356E51665153858C29ECA4831CCE1F.optimized.png"
+	}
+}

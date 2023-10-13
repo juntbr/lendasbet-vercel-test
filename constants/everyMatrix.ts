@@ -1,0 +1,2 @@
+export const EXTERNAL_CASHIER_CREDIT_PAY_CARD_VENDOR_ID = 1063;
+export const CASINO_WALLET_LOCKED_BY_ROLLOVER_BONUS_ERROR_MESSAGE = "UBS Predict bonus result was Rejected with unknown reason 'RealMoneyLocked' (UBS Predict Bonus call rejected)";

@@ -1,0 +1,112 @@
+{
+	"href": "https://lendasbet.nwacdn.com/v1/casino/games/38086?expand=&filter=name%3Dpenalty%20s&language=pt&selectedCountryCode=BR",
+	"id": "38086",
+	"name": "Penalty Shoot Out",
+	"launchUrl": "https://gamelaunch.everymatrix.com/Loader/Start/2703/penalty_shoot_out_evoplay",
+	"backgroundImageUrl": "//static.everymatrix.com/cms2/base/_casino/5/5A3752834C688A5DC1BD2D748B468D42.jpg",
+	"popularity": 0,
+	"isNew": false,
+	"width": 1280,
+	"height": 720,
+	"hasFunMode": true,
+	"hasAnonymousFunMode": true,
+	"thumbnail": "//static.everymatrix.com/cms2/base/_casino/6/6FED8142BD7D2B3873CD8432ADE367A2.jpg",
+	"subVendor": "Evoplay_Entertainment",
+	"subVendorId": 292,
+	"defaultThumbnail": "//static.everymatrix.com/cms2/base/_casino/6/6FED8142BD7D2B3873CD8432ADE367A2.jpg",
+	"type": "casino-games",
+	"logo": "//static.everymatrix.com/cms2/base/_casino/D/D66AA5E77B2EA2B3AE235DB7DBDEB399.optimized.png",
+	"slug": "penalty_shoot_out_evoplay",
+	"theoreticalPayOut": 0.96,
+	"platform": [
+		"PC",
+		"iPad",
+		"iPhone",
+		"Android"
+	],
+	"maxBetRestriction": {
+		"defaultMaxBet": {
+			"EUR": 100
+		},
+		"defaultMaxWin": {
+			"EUR": 3100
+		},
+		"defaultMaxMultiplier": 31
+	},
+	"groups": {
+		"count": 1,
+		"items": [
+			"TESTELOBBY$jogos-interativos"
+		]
+	},
+	"groupInfos": {
+		"count": 1,
+		"items": {
+			"TESTELOBBY$jogos-interativos": {
+				"position": "default~jogos-interativos~0003.0002",
+				"thumbnail": "//static.everymatrix.com/cms2/base/_casino/6/6FED8142BD7D2B3873CD8432ADE367A2.jpg"
+			}
+		}
+	},
+	"vendor": {
+		"href": "https://lendasbet.nwacdn.com/v1/casino/vendors/282?selectedCountryCode=BR"
+	},
+	"tags": {
+		"count": 0,
+		"total": 0,
+		"items": [],
+		"pagination": {
+			"first": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=penalty%20s&pagination=tags(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt",
+			"next": null,
+			"previous": null,
+			"last": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=penalty%20s&pagination=tags(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt"
+		}
+	},
+	"categories": {
+		"count": 1,
+		"total": 1,
+		"items": [
+			{
+				"href": "https://lendasbet.nwacdn.com/v1/casino/categories/VIDEOSLOTS?language=pt&selectedCountryCode=BR"
+			}
+		],
+		"pagination": {
+			"first": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=penalty%20s&pagination=categories(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt",
+			"next": null,
+			"previous": null,
+			"last": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=penalty%20s&pagination=categories(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt"
+		}
+	},
+	"jackpots": {
+		"count": 0,
+		"total": 0,
+		"items": [],
+		"pagination": {
+			"first": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=penalty%20s&pagination=jackpots(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt",
+			"next": null,
+			"previous": null,
+			"last": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=penalty%20s&pagination=jackpots(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt"
+		}
+	},
+	"htmlDescription": "{inherited:false,overridden:false,value:}",
+	"description": "Do you like to play soccer? Are you the terror of your rivals? Or maybe you are an avid fan of your favorite football team? In any case, this game will satisfy both of thesepassions.\nThe game will amaze you with colorful animation, simple controls and a user-friendly interface, as well as delight with its fast gameplay.",
+	"promo": {
+		"effective": false
+	},
+	"exclusive": {
+		"effective": false
+	},
+	"gId": 38086,
+	"gameId": 38086,
+	"thumbnails": {},
+	"fpp": 0.2,
+	"bonusContribution": 1,
+	"icons": {
+		"22": "//static.everymatrix.com/cms2/base/_casino/C/CBA8B50153DAF0E7C8FD9F944E6B88E8.optimized.png",
+		"44": "//static.everymatrix.com/cms2/base/_casino/C/CBA8B50153DAF0E7C8FD9F944E6B88E8.optimized.png",
+		"57": "//static.everymatrix.com/cms2/base/_casino/C/CBA8B50153DAF0E7C8FD9F944E6B88E8.optimized.png",
+		"72": "//static.everymatrix.com/cms2/base/_casino/C/CBA8B50153DAF0E7C8FD9F944E6B88E8.optimized.png",
+		"88": "//static.everymatrix.com/cms2/base/_casino/C/CBA8B50153DAF0E7C8FD9F944E6B88E8.optimized.png",
+		"114": "//static.everymatrix.com/cms2/base/_casino/C/CBA8B50153DAF0E7C8FD9F944E6B88E8.optimized.png"
+	}
+}

@@ -1,0 +1,120 @@
+{
+  "href": "https://lendasbet.nwacdn.com/v1/casino/games/47109?expand=&filter=name%3Dspacema&language=pt&selectedCountryCode=BR",
+  "id": "47109",
+  "name": "Spaceman",
+  "launchUrl": "https://gamelaunch.everymatrix.com/Loader/Start/2703/spaceman_pragmaticplay",
+  "backgroundImageUrl": "//static.everymatrix.com/cms2/base/_casino/B/BAF61F4E4678A505907F4CAEB07EB241.jpg",
+  "popularity": 0,
+  "isNew": false,
+  "width": 1280,
+  "height": 720,
+  "hasFunMode": true,
+  "hasAnonymousFunMode": true,
+  "thumbnail": "//static.everymatrix.com/cms2/base/_casino/7/76E82CBE2089C030CE5BA669F827DCA3.jpg",
+  "subVendor": "PragmaticPlay",
+  "subVendorId": 132,
+  "defaultThumbnail": "//static.everymatrix.com/cms2/base/_casino/7/76E82CBE2089C030CE5BA669F827DCA3.jpg",
+  "type": "casino-games",
+  "advancedTags": [],
+  "logo": "//static.everymatrix.com/cms2/base/_casino/5/5E73D6A1943D5A2D5B1D587F8ADE0AE2.optimized.png",
+  "slug": "spaceman_pragmaticplay",
+  "theoreticalPayOut": 0.955,
+  "platform": [
+    "PC",
+    "iPad",
+    "iPhone",
+    "Android"
+  ],
+  "maxBetRestriction": {
+    "defaultMaxBet": {
+      "EUR": 100
+    },
+    "defaultMaxWin": {
+      "EUR": 500000
+    },
+    "defaultMaxMultiplier": 5000
+  },
+  "groups": {
+    "count": 2,
+    "items": [
+      "TESTELOBBY$crash-games",
+      "TESTELOBBY$top-9"
+    ]
+  },
+  "groupInfos": {
+    "count": 2,
+    "items": {
+      "TESTELOBBY$crash-games": {
+        "position": "default~crash-games~0002.0002",
+        "thumbnail": "//static.everymatrix.com/cms2/base/_casino/7/76E82CBE2089C030CE5BA669F827DCA3.jpg"
+      },
+      "TESTELOBBY$top-9": {
+        "position": "default~top-9~0001.0001",
+        "thumbnail": "//static.everymatrix.com/cms2/base/_casino/7/76E82CBE2089C030CE5BA669F827DCA3.jpg"
+      }
+    }
+  },
+  "vendor": {
+    "href": "https://lendasbet.nwacdn.com/v1/casino/vendors/214?selectedCountryCode=BR"
+  },
+  "tags": {
+    "count": 1,
+    "total": 1,
+    "items": [
+      {
+        "href": "https://lendasbet.nwacdn.com/v1/casino/tags/Space?selectedCountryCode=BR"
+      }
+    ],
+    "pagination": {
+      "first": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=spacema&pagination=tags(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt",
+      "next": null,
+      "previous": null,
+      "last": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=spacema&pagination=tags(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt"
+    }
+  },
+  "categories": {
+    "count": 1,
+    "total": 1,
+    "items": [
+      {
+        "href": "https://lendasbet.nwacdn.com/v1/casino/categories/CRASHGAMES?language=pt&selectedCountryCode=BR"
+      }
+    ],
+    "pagination": {
+      "first": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=spacema&pagination=categories(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt",
+      "next": null,
+      "previous": null,
+      "last": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=spacema&pagination=categories(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt"
+    }
+  },
+  "jackpots": {
+    "count": 0,
+    "total": 0,
+    "items": [],
+    "pagination": {
+      "first": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=spacema&pagination=jackpots(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt",
+      "next": null,
+      "previous": null,
+      "last": "https://lendasbet.nwacdn.com/v1/casino/games?filter=name=spacema&pagination=jackpots(offset=0,limit=50)&selectedCountryCode=BR&orderBy=DES&language=pt"
+    }
+  },
+  "promo": {
+    "effective": false
+  },
+  "exclusive": {
+    "effective": false
+  },
+  "gId": 47109,
+  "gameId": 47109,
+  "thumbnails": {},
+  "fpp": 0.2,
+  "bonusContribution": 1,
+  "icons": {
+    "22": "//static.everymatrix.com/cms2/base/_casino/8/8C0254044C1D89E3905B15AA02A81C4F.optimized.png",
+    "44": "//static.everymatrix.com/cms2/base/_casino/8/8C0254044C1D89E3905B15AA02A81C4F.optimized.png",
+    "57": "//static.everymatrix.com/cms2/base/_casino/8/8C0254044C1D89E3905B15AA02A81C4F.optimized.png",
+    "72": "//static.everymatrix.com/cms2/base/_casino/8/8C0254044C1D89E3905B15AA02A81C4F.optimized.png",
+    "88": "//static.everymatrix.com/cms2/base/_casino/8/8C0254044C1D89E3905B15AA02A81C4F.optimized.png",
+    "114": "//static.everymatrix.com/cms2/base/_casino/8/8C0254044C1D89E3905B15AA02A81C4F.optimized.png"
+  }
+}
