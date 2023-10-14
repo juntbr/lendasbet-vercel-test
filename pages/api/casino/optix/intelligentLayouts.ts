@@ -48,10 +48,15 @@ async function handler(req: NextApiRequest, res: NextApiResponse) {
         trendingGames: trendingGamesWithNewImages,
       }
 
-      if (response)
+      if (response) {
+        res.setHeader(
+          'Cache-Control',
+          'public, s-maxage=10, stale-while-revalidate=59',
+        )
         return res
           .status(200)
           .json({ error: false, message: 'Ok', data: games })
+      }
     } catch (error) {
       return res.status(500).json({ error, message: 'Error' })
     }
