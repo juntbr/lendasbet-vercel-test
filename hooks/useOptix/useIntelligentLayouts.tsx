@@ -1,11 +1,11 @@
 import axios from 'axios'
 import {
-  useState,
-  useCallback,
-  useEffect,
-  createContext,
   PropsWithChildren,
+  createContext,
+  useCallback,
   useContext,
+  useEffect,
+  useState,
 } from 'react'
 import useWindowSize from '../UseWindowSize'
 import { useAuth } from '../useAuth'
@@ -38,10 +38,9 @@ export const IntelligentLayoutsProvider = ({ children }: PropsWithChildren) => {
   const channel = isMobile ? 'mobile' : 'desktop'
 
   const fetchIntelligentLayout = useCallback(async () => {
-    const res = await axios.post('/api/casino/optix/intelligentLayouts', {
-      userId,
-      channel,
-    })
+    const res = await axios.get(
+      `/api/casino/optix/intelligentLayouts?userId=${userId}&channel=${channel}`,
+    )
 
     setRecentlyPlayedGames(res.data.data?.recentlyPlayedGames)
     setTrendingGames(res.data.data.trendingGames)
