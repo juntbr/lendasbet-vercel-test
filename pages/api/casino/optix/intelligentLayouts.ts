@@ -4,6 +4,16 @@ import { fetchOptimoveIntelligentLayout } from 'server/usecases/cassino/optimove
 import { Game } from 'types/casino'
 import { v4 as uuid } from 'uuid'
 
+export const runtime = 'nodejs'
+
+// Force static pages
+export const dynamic = 'force-static'
+
+// CDN cache currently only works on nodejs runtime
+
+// Revalidate in seconds
+export const revalidate = 60
+
 function transformGameData(data, areaTitle) {
   const areaData = data.layout.result.find(
     (data) => data.area.placement.title === areaTitle,
